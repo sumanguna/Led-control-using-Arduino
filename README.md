@@ -1,4 +1,6 @@
 # Led-control-using-Arduino
+## NAME : Suman G
+## REG NO : 212223240163
 
 ## AIM
 To design and implement a system for LED control using an Arduino microcontroller and a push button.
